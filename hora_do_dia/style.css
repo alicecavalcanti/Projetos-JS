@@ -1,0 +1,26 @@
+.corpo{
+    background-color: black;
+    font: normal 15pt arial;
+}
+.apresentacao{
+    color: rgb(255, 255, 255);
+    font-size: 26px;
+    text-align: center;
+    
+}
+.apresentacao__conteudo{
+    margin: auto;
+    background-color:aliceblue;
+    width: 500px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.522);
+    padding: 1%;
+    
+}
+.apresentacao__conteudo__paragrafo{
+    color: rgba(0, 0, 0, 0.862);
+    font-size: 25px;
+   
+    
+}

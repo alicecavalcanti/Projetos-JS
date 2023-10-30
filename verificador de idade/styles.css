@@ -1,0 +1,38 @@
+body{
+    background-image:url('./imagens/fundo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font: normal 15pt Arial;
+    color: rgb(73, 50, 50);;
+}
+
+header{
+    text-align: center;
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.753) 
+}
+input[type=number]::-webkit-inner-spin-button { 
+    -webkit-appearance: none;
+    
+}
+#foto{ 
+    width: 250px;  
+    height: 250px;
+    border-radius: 50%;
+}
+button{
+    width: 120px;
+    height: 30px;
+    border-radius: 8px;
+    border-color: white;
+    font-size: 15px;
+    background-color: rgba(241, 202, 154, 0.781);
+    cursor: pointer;
+    
+}
